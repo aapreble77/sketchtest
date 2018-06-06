@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "B4D65F75-7E45-4EF2-B0E1-5427C6FC9F2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD22E21A-9D64-41D2-84EB-CD39EAA55EDE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5093E7D4-0780-4ED5-A533-FBCEBAEEF421",
+    "height": 30,
+    "width": 42,
+    "x": 20,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "570B1E7A-43DD-4252-8A1A-1F77707C4ABA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BF07411B-4B06-4E97-A54D-FE9D45708508"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "266DD4D7-DA7A-40EB-96C8-3AD1FCCAF9C0"
+    }
+  ],
+  "name": "delete icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F09A072A-72B3-486D-8E7F-858B7D1BDE0D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "ABA1933B-ADCB-4911-9272-6C248AE6AB58",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "_class": "group",
+  "do_objectID": "8667C603-E0D1-48B5-8ACC-264E4792291C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8AF229C3-6DE9-458E-AE10-D40EDF218E8A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "904B7E1F-6022-4DBF-A4D7-BD639FF3B746",
+    "height": 410,
+    "width": 750,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A6F20C8D-554F-44F6-BE06-2092AE6DDA52"
+    },
+    {
+      "class": "group",
+      "id": "DFC2B424-FCBD-40F4-8A8C-5F6501FD2428"
+    },
+    {
+      "class": "group",
+      "id": "6D6C1685-0AD1-4E74-A0E4-A4AE4784394A"
+    },
+    {
+      "class": "group",
+      "id": "5E67A915-ED3B-41AA-81E1-DF843A56A517"
+    },
+    {
+      "class": "group",
+      "id": "A850CEA5-44DA-45A3-A1E0-7AB28C3237AF"
+    },
+    {
+      "class": "group",
+      "id": "41F9AA92-9C92-4B03-AA25-0BD24538011B"
+    },
+    {
+      "class": "group",
+      "id": "8BB01DCA-4B90-424B-8935-4F9AE677510D"
+    },
+    {
+      "class": "group",
+      "id": "A19843DD-DAE1-4A0E-A7F1-B5640B37AE8D"
+    },
+    {
+      "class": "group",
+      "id": "38C89B57-8365-4E4A-BE9F-65A24547DB68"
+    },
+    {
+      "class": "group",
+      "id": "BA15699C-6E38-4709-9A49-5AD378F7DBCA"
+    },
+    {
+      "class": "group",
+      "id": "0CFD2DE9-6B72-45F5-8548-D708EE4B1692"
+    },
+    {
+      "class": "group",
+      "id": "1745108C-BED5-4985-872C-20FD5DA6FBC8"
+    },
+    {
+      "class": "group",
+      "id": "FA9E6B75-44F7-4D45-A5E3-47F26A725481"
+    },
+    {
+      "class": "group",
+      "id": "3E79EBA3-7B1F-4949-85BB-A0C40B46041B"
+    },
+    {
+      "class": "group",
+      "id": "BE3FCB9C-89FB-468D-896B-3371E9488534"
+    },
+    {
+      "class": "group",
+      "id": "0FD16696-88A1-4348-BB8B-3BE3254F1887"
+    },
+    {
+      "class": "group",
+      "id": "94865428-2553-40E9-AE0F-788B26FB9A10"
+    },
+    {
+      "class": "group",
+      "id": "8BA68F3B-064E-43D5-A235-F7BA93EC5077"
+    },
+    {
+      "class": "group",
+      "id": "F0D6227F-737C-49D6-A096-FCEE53BFA6BB"
+    },
+    {
+      "class": "group",
+      "id": "B84CA5C9-3DB8-4EFE-A689-1525057C134F"
+    },
+    {
+      "class": "group",
+      "id": "4D7A5C59-34C0-4B92-A51F-86CD43530761"
+    },
+    {
+      "class": "group",
+      "id": "AB3748AE-1A36-4B99-89E5-86914E3B2164"
+    },
+    {
+      "class": "group",
+      "id": "2D3B3B13-36EF-4A91-BDB9-97BCCB3D7EDA"
+    },
+    {
+      "class": "group",
+      "id": "45E1D908-32BA-4FF6-92B3-640FBD5FD172"
+    },
+    {
+      "class": "group",
+      "id": "1A4B3A07-2614-4781-B644-7E46B8217EEC"
+    },
+    {
+      "class": "group",
+      "id": "029B7CCF-717D-4CC9-B475-2DFF283A1C38"
+    },
+    {
+      "class": "group",
+      "id": "EBB99E6C-A7AA-4CB3-B6BF-F353A659C68B"
+    },
+    {
+      "class": "group",
+      "id": "000A7026-00EB-4485-842B-035C1B8FBC8D"
+    },
+    {
+      "class": "group",
+      "id": "2655D660-D6C6-456B-91EB-F6F7612918B6"
+    },
+    {
+      "class": "group",
+      "id": "A1855D76-7959-4B00-8B9F-640022C34D1E"
+    },
+    {
+      "class": "group",
+      "id": "142EFE2B-84A9-4559-8438-93E772EDD995"
+    },
+    {
+      "class": "group",
+      "id": "58AFE2E9-1AED-4C96-92A2-3EEB4407DF43"
+    },
+    {
+      "class": "group",
+      "id": "757463AF-6037-483A-B213-F9B89A7D6762"
+    },
+    {
+      "class": "group",
+      "id": "E0128BB6-6EDC-4E3A-8D14-CC19AB54B62B"
+    },
+    {
+      "class": "group",
+      "id": "0133D305-AB51-4140-B785-8AC48218EA50"
+    },
+    {
+      "class": "group",
+      "id": "8BCB4FD8-7A18-4FE0-B6E3-512C49056246"
+    }
+  ],
+  "name": "System / Keyboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "650F1204-8287-4CE5-9E0E-3116D64C2A99",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "3CF95055-D4FD-4579-B8C7-3E8E724EA353",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

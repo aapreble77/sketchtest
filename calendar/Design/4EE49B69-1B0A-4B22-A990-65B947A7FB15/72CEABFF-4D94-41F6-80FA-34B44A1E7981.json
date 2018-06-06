@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "72CEABFF-4D94-41F6-80FA-34B44A1E7981",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "182733F2-EFEC-4F63-8DDF-FCF24DDE923F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE0DA6D8-2258-4EE2-8C85-CE294FD23BBE",
+    "height": 112,
+    "width": 112,
+    "x": 606,
+    "y": 1190
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Controls / Fab",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF0D8945-E3CA-4F6F-84DF-745B434DB9F5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "042CAAA4-6A46-4B14-967B-DA436F962DEF",
+  "verticalSpacing": 0
+}

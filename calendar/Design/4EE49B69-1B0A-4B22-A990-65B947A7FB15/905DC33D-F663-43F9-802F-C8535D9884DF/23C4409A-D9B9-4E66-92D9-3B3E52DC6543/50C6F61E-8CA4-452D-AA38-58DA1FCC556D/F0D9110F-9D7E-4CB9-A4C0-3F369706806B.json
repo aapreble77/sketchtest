@@ -1,0 +1,108 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2980392156862745,
+            "green": 0.2901960784313726,
+            "red": 0.3333333333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFUIText-Semibold",
+              "size": 28
+            }
+          },
+          "kerning": -0.48,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 38,
+            "minimumLineHeight": 38
+          }
+        },
+        "length": 38,
+        "location": 0
+      }
+    ],
+    "string": "Design Talks - Measure User Experience"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "F0D9110F-9D7E-4CB9-A4C0-3F369706806B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9FC9750-8A1A-4A27-A081-43AF207C0113",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "018CA387-7893-4967-AE1E-EEDBA62AA581",
+    "height": 114,
+    "width": 214,
+    "x": 24,
+    "y": 16
+  },
+  "glyphBounds": "{{2, 7}, {185, 103}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Design Talks - Measu",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51FB702F-0D1A-4FAF-AA76-790B61F50184",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "21383F5C-C586-429E-A58C-2B38F002D986",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2980392156862745,
+          "green": 0.2901960784313726,
+          "red": 0.3333333333333333
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFUIText-Semibold",
+            "size": 28
+          }
+        },
+        "kerning": -0.48,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 38,
+          "minimumLineHeight": 38
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

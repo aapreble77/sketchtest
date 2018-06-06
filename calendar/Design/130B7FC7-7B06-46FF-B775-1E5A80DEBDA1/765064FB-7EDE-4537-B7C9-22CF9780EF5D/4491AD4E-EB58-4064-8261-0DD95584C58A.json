@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4491AD4E-EB58-4064-8261-0DD95584C58A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FEC9F06F-5C18-4C5E-868A-009A1414A361",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "97AB40CF-6C15-4B65-8158-56A1D8E965E6",
+    "height": 39,
+    "width": 39,
+    "x": 473,
+    "y": 117
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component / RemovePerson  Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76D8A299-2CD3-4825-85FA-96337DE202FA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A6B1D10F-3293-4708-A138-37CA85ED9540",
+  "verticalSpacing": 0
+}

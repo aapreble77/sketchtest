@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "497F967A-F391-4D67-B2E2-A7E666069118",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "165E039F-DF2B-4549-B3DE-FE86D0F0D774",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB64CC89-A14E-4974-9D8C-AA5807E4AC9C",
+    "height": 128,
+    "width": 750,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component / NavBar / Text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44457093-7FDF-4889-B6AA-8D5B42418F6E",
+      "overrideName": "1784C18B-1315-416B-8995-93ADBC2069DE_stringValue",
+      "value": "Edit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22B05BC1-C3EF-4275-AAD7-0B31AA2F7D6F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AE7E8EA4-ED1A-4EA3-A029-E5D0C0E76149",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8113A64E-EF52-408B-BF41-CC3CD6EE4898",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D9C6F40-E385-46B7-96DB-D8530838EFA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8718D59-0CCE-40A5-8EAE-21BBDA1CA6D5",
+    "height": 86,
+    "width": 86,
+    "x": 64,
+    "y": 62
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component / Avatar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "733CC060-CCDF-43BB-945D-64216AC9E45B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EC2CDD77-6847-47FA-BC0F-08129061A826",
+  "verticalSpacing": 0
+}

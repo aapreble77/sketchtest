@@ -1,0 +1,106 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "432DFE4D-DCBA-4CC2-8A87-B7766435D8DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6CD9A4F-9734-4DA4-8CB7-1F713E45FE5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F57167E-381F-4947-8CEA-79102DCDA9E8",
+    "height": 19.85240000000013,
+    "width": 75.44260000000035,
+    "x": 14,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3E20F197-2D7A-47B9-858E-13FB44C898C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "B9BDDBBB-F2E1-4FD9-B64F-5799E989A0B6"
+    },
+    {
+      "class": "shapePath",
+      "id": "66566C4E-AB61-4E1F-AC53-F886A8C80CF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D2529F64-8B4B-41B6-891D-9D3999DF7E5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "926FB7E5-5A04-4423-8283-3A92615DF40B"
+    },
+    {
+      "class": "shapePath",
+      "id": "67B99DA7-9A6C-4596-A3D8-0318F5F89B09"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0642D5B-F258-41FD-BFB6-5C389C864403"
+    },
+    {
+      "class": "shapePath",
+      "id": "E934CE74-4181-44D6-969A-9129A7F845EC"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A10C902B-89FB-4333-837D-2070B623C2D7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "A3B650D3-8544-4C45-9AAC-A7519CEDD5F3",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}
