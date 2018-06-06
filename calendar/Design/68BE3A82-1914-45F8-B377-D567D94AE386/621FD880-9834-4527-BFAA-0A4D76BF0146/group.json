@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "621FD880-9834-4527-BFAA-0A4D76BF0146",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1011,
+    "width": 751,
+    "x": 0,
+    "y": 323
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4A9CE3FE-D808-473B-B092-65380C40C361"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "379973CF-4335-4C01-AC35-ADE21876FA11"
+    },
+    {
+      "class": "group",
+      "id": "802CE2CF-8D9A-4EB3-8D98-6FE114CE5715"
+    },
+    {
+      "class": "group",
+      "id": "44A30E31-789B-4EEB-897B-DB86025DCB82"
+    }
+  ],
+  "name": "Calendar Bcg",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

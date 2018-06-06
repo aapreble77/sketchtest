@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFUIText-Semibold",
+              "name": "FiraSans-Regular",
               "size": 64
             }
           },
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Lunch Break"
+    "string": "Grab Foods!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0477C759-ECF9-469C-9232-BD7F31838C6D",
@@ -54,14 +54,14 @@
     "x": 64,
     "y": 172
   },
-  "glyphBounds": "{{5, 13}, {374, 49}}",
+  "glyphBounds": "{{3, 12}, {323, 49}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lunch Break",
+  "name": "Grab Foods!",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFUIText-Semibold",
+            "name": "FiraSans-Regular",
             "size": 64
           }
         },
@@ -100,5 +100,12 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 2
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

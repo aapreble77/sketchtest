@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "F3BADC39-59D6-470B-B5CF-800A37F17E16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 823,
+    "x": 0,
+    "y": 257
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3EE55B03-BD82-4DF8-89BC-2EBD6BD331F1"
+    },
+    {
+      "class": "group",
+      "id": "36BB72B3-BFEA-4193-8589-A94497E7905A"
+    },
+    {
+      "class": "group",
+      "id": "33C386AF-637E-420E-83C9-F969385B5EA9"
+    },
+    {
+      "class": "group",
+      "id": "50D19A8E-996D-453F-A9CC-F5B256DF0DF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1ED7DD0-EDA0-4926-8269-AE05A0C2D951"
+    }
+  ],
+  "name": "People",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
