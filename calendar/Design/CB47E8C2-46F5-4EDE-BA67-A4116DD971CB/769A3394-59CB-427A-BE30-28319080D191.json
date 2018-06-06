@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 410,
     "width": 750,
-    "x": 0,
+    "x": -6,
     "y": 924
   },
   "horizontalSpacing": 0,
@@ -40,5 +40,11 @@
     "startDecorationType": 0
   },
   "symbolID": "AFAE477D-7609-4393-9F03-5DC640AAD54A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "do_objectID": "99D56799-31A0-473C-8BA3-2F79D292E96B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "882E88DD-AB01-446B-8F67-17832C44EEA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B54231D1-50D2-457D-8E6E-AA24D7DCE1D0",
+    "height": 103,
+    "width": 660,
+    "x": 40,
+    "y": 137
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1002434D-772A-49ED-87F6-F548CABF687B"
+    },
+    {
+      "class": "text",
+      "id": "56496684-F6A1-4583-9812-7E08533712BB"
+    },
+    {
+      "class": "text",
+      "id": "DA72B3E8-ACB3-45E1-B94E-691B28A0F758"
+    },
+    {
+      "class": "text",
+      "id": "911206F6-C9B4-4346-8D83-D3767D76CDB1"
+    },
+    {
+      "class": "text",
+      "id": "BD6DA440-5B30-4AEB-A3E9-DFB8CEE36F18"
+    },
+    {
+      "class": "text",
+      "id": "929D5EF8-8165-4737-9DFB-F4CF5DC175E9"
+    },
+    {
+      "class": "text",
+      "id": "9C85A8E7-5C48-48C4-AB6A-368384DDE598"
+    },
+    {
+      "class": "text",
+      "id": "EDEE79B8-4DFE-4979-9603-D4A8380B7801"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0C58472-D2E7-46E9-9B1F-D3755C997024"
+    },
+    {
+      "class": "text",
+      "id": "F5F53CBF-450F-4B87-89D3-F3762C6A32EE"
+    },
+    {
+      "class": "text",
+      "id": "123BE787-DBDC-4E47-B760-A2F3DD3FDFB9"
+    },
+    {
+      "class": "text",
+      "id": "6813F5EC-241F-4596-AE63-48B8D81E0A2F"
+    },
+    {
+      "class": "text",
+      "id": "646D362D-1C10-4DF5-AD0D-67CBE103A40E"
+    },
+    {
+      "class": "text",
+      "id": "F90DE985-ACF5-4D46-A082-76AA6EE7425F"
+    },
+    {
+      "class": "text",
+      "id": "AD08BA15-5A35-40BE-8347-90B63180545B"
+    }
+  ],
+  "name": "Week",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F2EBA97C-F91C-4720-B1B8-0C0A0D6A501C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -17,7 +17,7 @@
     "do_objectID": "8A9D74D4-5CBB-4900-AB62-D7C29DFE3A2E",
     "height": 383,
     "width": 754,
-    "x": 69,
+    "x": 63,
     "y": 800
   },
   "hasClickThrough": false,
@@ -52,5 +52,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

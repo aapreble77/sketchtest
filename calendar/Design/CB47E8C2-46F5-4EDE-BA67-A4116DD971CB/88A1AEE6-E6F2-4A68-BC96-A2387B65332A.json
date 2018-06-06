@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFUIText-Regular",
+              "name": "FiraSans-Regular",
               "size": 24
             }
           },
@@ -53,10 +53,10 @@
     "do_objectID": "E280F00D-8A3F-4F87-82F5-F4E70531E0B5",
     "height": 30,
     "width": 367,
-    "x": 32,
+    "x": 26,
     "y": 252
   },
-  "glyphBounds": "{{0, 5}, {243, 24}}",
+  "glyphBounds": "{{0, 4}, {232, 25}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFUIText-Regular",
+            "name": "FiraSans-Regular",
             "size": 24
           }
         },
@@ -104,5 +104,12 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

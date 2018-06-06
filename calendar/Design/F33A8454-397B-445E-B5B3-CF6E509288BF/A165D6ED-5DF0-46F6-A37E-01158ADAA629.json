@@ -53,7 +53,7 @@
     "do_objectID": "907B220B-3E02-48C8-8EA2-AADD5F5E8430",
     "height": 88,
     "width": 622,
-    "x": 64,
+    "x": 58,
     "y": 272
   },
   "glyphBounds": "{{1, 8}, {541, 75}}",
@@ -104,5 +104,12 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

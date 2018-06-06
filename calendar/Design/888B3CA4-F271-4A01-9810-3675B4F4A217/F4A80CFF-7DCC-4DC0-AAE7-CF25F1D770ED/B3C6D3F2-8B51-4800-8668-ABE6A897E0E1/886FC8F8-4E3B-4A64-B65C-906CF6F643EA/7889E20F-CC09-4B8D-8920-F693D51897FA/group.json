@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "7889E20F-CC09-4B8D-8920-F693D51897FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79708654-0311-45C5-BF1D-5A28C6204347",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4FFBC1B8-61A6-4962-B067-463E75BD27BC",
+    "height": 56,
+    "width": 56,
+    "x": 28,
+    "y": 191
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A97D9347-07F9-4650-8DEB-EF9541031C45"
+    },
+    {
+      "class": "text",
+      "id": "904F211F-509B-46F9-B233-6E5D2E4A0242"
+    }
+  ],
+  "name": "Osoba",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BCF8ECB-CD14-4AA2-A428-0F7072362040",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

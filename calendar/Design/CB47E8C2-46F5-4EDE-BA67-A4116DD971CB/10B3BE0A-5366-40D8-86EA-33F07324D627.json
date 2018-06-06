@@ -17,7 +17,7 @@
     "do_objectID": "72D2529E-61E8-48E0-ADA7-5724B8CB547C",
     "height": 111,
     "width": 750,
-    "x": 0,
+    "x": -6,
     "y": 639
   },
   "horizontalSpacing": 0,
@@ -61,5 +61,11 @@
     "startDecorationType": 0
   },
   "symbolID": "57867376-1341-45E6-97A6-128578B07968",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }
