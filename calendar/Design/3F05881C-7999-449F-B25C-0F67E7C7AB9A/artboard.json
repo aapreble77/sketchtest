@@ -89,6 +89,10 @@
     {
       "class": "symbolInstance",
       "id": "BF18627F-7120-4ED5-B056-0ED4CBA1A96B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4B225554-EDFC-4075-97EF-933BAB2B8D54"
     }
   ],
   "name": "1.0 Home",
