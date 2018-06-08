@@ -90,6 +90,38 @@
     {
       "class": "symbolInstance",
       "id": "CE8C1830-D5BA-46EB-8B27-96D40AC4D3A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5A9D434F-FB91-4C83-8FD5-1B99E06971F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC801580-E04E-4054-97FB-F908F0C8C921"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7DFAE08F-03AA-44C5-9668-E9AD96AA3746"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE80671D-7457-4FEB-9AC8-FE54ED54E355"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "91B5741D-7E8E-434D-B2BD-9D92062DD5F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54F9EB52-B979-4004-82EA-464B8F134B35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "449FE652-4FD5-4CFD-8E3B-F2AB9D7DDF4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E086EA54-7A79-47B5-B25F-BA765A4EB3A0"
     }
   ],
   "name": "1.0 Home Detail V2",

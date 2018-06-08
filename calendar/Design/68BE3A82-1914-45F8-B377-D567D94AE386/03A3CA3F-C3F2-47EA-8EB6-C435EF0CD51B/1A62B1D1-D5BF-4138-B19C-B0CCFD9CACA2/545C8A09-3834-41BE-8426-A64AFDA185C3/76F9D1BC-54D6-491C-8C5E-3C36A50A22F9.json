@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FiraSans-Regular",
+              "name": "FiraSans-ExtraLightItalic",
               "size": 28
             }
           },
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "THIS WOULD BE A DETAIL VIEW……."
+    "string": "THIS could BE A DETAIL VIEW……."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "76F9D1BC-54D6-491C-8C5E-3C36A50A22F9",
@@ -52,14 +52,14 @@
     "x": 67,
     "y": 426
   },
-  "glyphBounds": "{{0, 6}, {414, 21}}",
+  "glyphBounds": "{{1, 5}, {369, 22}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "THIS WOULD BE A DETA",
+  "name": "THIS could BE A DETA",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FiraSans-Regular",
+            "name": "FiraSans-ExtraLightItalic",
             "size": 28
           }
         },
